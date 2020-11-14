@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">IG Styled Photo Gallery</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://photogallery-pi.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/nofsys/photogallery">
       Solution
     </a>
     <span> | </span>
@@ -36,22 +36,20 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img src="readmeimg/fullpage.png">
+<img src="readmeimg/mobileview.png">
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is an IG styled photo gallery that I've been working on for Devchallenges.io. 
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I chose this project for two main reasons, the first one is that I'm a photography lover myself, so it can be useful for me in the future; and the second one is that I feel that personal photography/product websites are quite trendy lately so it was worth learning how to create a site like this.
+
+My main challenge here was to discover how to place each picture in this Pinterest-like layout, and that it kept that way even when using smaller screens. I tried placing each picture separately and the result wasn't good, but then I learned about CSS grid - which was completely new to me - and it was key to develop the website and make it look as I wanted.
+
+As a side note, I also learned to look closely since I hadn't realised about certain margins between elements, or even the soft shadows under each picture. I was so focused on getting everything right in the place they had to be that I almost forgot about smaller details that make the site look good as well.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+HTML and CSS.
 
 ## Features
 
@@ -59,17 +57,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@nofsys](https://github.com/nofsys)
+- Twitter [@nofsys](https://twitter.com/nofsys)
